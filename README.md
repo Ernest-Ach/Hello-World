@@ -1,4 +1,4 @@
-**<h1>Table of Contents</h1>**
+***<h1>Table of Contents</h1>***
 <ol>
 <li><h3><a href=#>Project Title</a></h3></li>
 <li><h3><a href=#>Description</a></h3></li>
@@ -34,6 +34,6 @@ Impact of Urbanization on Air Quality Index in Major US Cities/
 <h2 id="Versioning">Versioning</h2>
 <p>Document the version history of your project, especially if there have been significant changes.</p>
 <ul>
-    <li>Version 1.0 - ***Initial project release*** (Date: 2023-11-01)</li>
+    <li>Version 1.0 - Initial project release (Date: 2023-11-01)</li>
     <li>Version 2.0 - ***Added new features and improved performance*** (Date: 2023-11-01)</li>
 </ul>
