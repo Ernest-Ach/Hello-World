@@ -20,7 +20,7 @@ Impact of Urbanization on Air Quality Index in Major US Cities/
 ├── data.csv
 ├── index.html
 </pre>
-<h2 id="Files Used">Files Usedh2>
+<h2 id="Files Used">Files Used>
 <p>List the data files you've used, their sources, and the content they contain.</p>
 <ul>
     <li>DataFile1.csv - Source: Dataset Repository - Contains demographic data.</li>
