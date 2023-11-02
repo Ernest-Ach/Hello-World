@@ -1,8 +1,11 @@
 **<h1>Table of Contents</h1>**
+<ol>
+  <li>Project Title</li>
+  <li>Description</li>
+  <li>Third item</li>
+  <li>How to run a program</li>
+  <li>Files Used</li>
+  <li>Additional documentation</li>
+  <li>Versioning</li>
+</ol>
 
--**Project Title**
--**Description**
--**How to run a program**
--***Files Used***
--**Additional documentation**
--***Versioning***
