@@ -20,9 +20,20 @@ Impact of Urbanization on Air Quality Index in Major US Cities/
 ├── data.csv
 ├── index.html
 </pre>
-<h2 id="Files Used">Files Usedh</h2>
+<h2 id="Files Used">Files Used</h2>
 <p>List the data files you've used, their sources, and the content they contain.</p>
 <ul>
     <li>DataFile1.csv - Source: Dataset Repository - Contains demographic data.</li>
     <li>DataFile2.json - Source: API - Contains real-time weather data.</li>
+</ul>
+<h2 id="Additional documentation">Additional documentation</h2>
+<p>Example of data sources and additional references.</p>
+<ul>
+    <li><a href="https://example.com/data-source">Data Source Documentation</a></li>
+</ul>
+<h2 id="version-history">Version History</h2>
+<p>Document the version history of your project, especially if there have been significant changes.</p>
+<ul>
+    <li>Version 1.0 - Initial project release (Date: yyyy-mm-dd)</li>
+    <li>Version 2.0 - Added new features and improved performance (Date: yyyy-mm-dd)</li>
 </ul>
